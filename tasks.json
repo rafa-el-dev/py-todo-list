@@ -1,14 +1,1 @@
-[
-    {
-        "description": "a",
-        "completed": false
-    },
-    {
-        "description": "bb",
-        "completed": true
-    },
-    {
-        "description": "ccc",
-        "completed": false
-    }
-]
+[]
